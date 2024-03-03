@@ -1,0 +1,15 @@
+.gradle
+
+
+.idea
+gradle
+node_modules
+package.json
+package-lock.json
+build.gradle
+settings.gradle
+
+
+build/
+
+
